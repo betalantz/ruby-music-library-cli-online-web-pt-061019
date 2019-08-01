@@ -1,5 +1,5 @@
 require 'bundler'
-require 'require_all'
+# require 'require_all'
 Bundler.require
 
 module Concerns
